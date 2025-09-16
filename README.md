@@ -60,6 +60,13 @@ Launches the G Hub application after making the changes.
 - The read-only attribute ensures changes persist even if G Hub tries to reset them.
 
 ---
+## Support
+
+If you find this script useful, feel free to buy me a coffee or make a small donation:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-yellow)](https://www.paypal.com/paypalme/dreadedcorpse)
+
+---
 
 ## License
 
